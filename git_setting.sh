@@ -7,4 +7,4 @@ git remote add origin git@github.com:QuXinghuaNTU/ASR_Attacks.git
 git commit -m 'the commit for ref'
 git push origin HEAD:main # do not use git push origin master
 user: QuXinghuaNTU
-token: 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
+token: refer to settings
